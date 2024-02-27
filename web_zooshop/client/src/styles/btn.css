@@ -1,0 +1,20 @@
+.btn, a.btn {
+    display: inline-block;
+    color: #fff;
+    background-color: rgba(34, 7, 7, 0.467);
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    min-height: 31px;
+    padding: 13px 20px;
+    transition: color 0.2s ease;
+}
+
+.btn:hover, a.btn:hover {
+    opacity: 0.8;
+    color: #fff;
+}
+
+.space {
+    margin: 8px;
+}

@@ -1,0 +1,44 @@
+.coupons-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  /* Style for the headings */
+  h2 {
+    margin-top: 70px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: QuickSand;
+    font-weight: 600;
+  }
+  
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style for each coupon item */
+  li {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the coupon title */
+  .title {
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-family: QuickSand;
+    font-weight: 600;
+  }
+  
+  /* Style for the coupon description */
+p {
+    margin: 5px 10px;
+    font-family: QuickSand;
+    text-align: justify;
+}
+  
